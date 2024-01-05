@@ -5,7 +5,7 @@ html {
     position: relative;
     height: 100vh;
     background-image: url('./img/main.JPG');
-    background-position: center -100px;
+    background-position: center -110px;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -32,7 +32,7 @@ html {
     background-image: url('./img/section.png');
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: -108px;
+    margin-top: -128px;
 }
 .section-body-center {
     position: relative;
